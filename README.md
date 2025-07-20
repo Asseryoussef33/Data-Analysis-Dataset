@@ -8,10 +8,15 @@
 
 What have i done:
 1-Added a Column Called Sales (Before Discount)
+
 2-Added a Column Called Discount Value
+
 3- All Decimal values rounded to 2 decimal places
+
 4- 5 Pivot tables created & 5 charts created
+
 5- 3 measures created
+
 6- 1 KPI applied
 
 📊 Key Insights:
