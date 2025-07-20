@@ -1,5 +1,6 @@
 # Data-Analysis-Dataset
 🔢 Basic Info:
+
 * Total Records: 3,771 rows
 
 * Columns: 12
@@ -20,6 +21,7 @@ What have i done:
 6- 1 KPI applied
 
 📊 Key Insights:
+
 1-Clothing is the most purchased category.
 
 2-Credit Card is the most used payment method.
